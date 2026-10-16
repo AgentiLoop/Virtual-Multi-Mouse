@@ -2,7 +2,7 @@ VMM has been discontinued and is no longer in development by its original author
 
 # 🐭👾🖲️ Virtual Multi-Mouse 1.1.3
 
-🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent. 🌐 [agentiloop.ai](https://agentiloop.ai)
 
 
 VMM, combines your spinner, trackball, mouse into a virtual multi-mouse! VMM is designed for Batocera Linux for use with Emulation Station and RetroArch.
